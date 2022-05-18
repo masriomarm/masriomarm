@@ -1,4 +1,9 @@
-### Hi there 👋
+# SA 👋
+
+## I'm Omar Elmasri, interested in Embedded Software
+ 
+
+
 
 <!--
 **masriomarm/masriomarm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
