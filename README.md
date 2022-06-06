@@ -1,8 +1,14 @@
 # SA 👋
 
 ## I'm Omar Elmasri, interested in Embedded Software
- 
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) masriomarm](https://www.linkedin.com/masriomarm)
+&nbsp;
+[![GitHub](https://i.stack.imgur.com/tskMh.png) masriomarm](https://github.com/masriomarm)
 
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="HORIZONTAL" data-vanity="masriomarm" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://eg.linkedin.com/in/masriomarm?trk=profile-badge">Omar Abdelhady</a></div>
+              
+              
 
 
 <!--
