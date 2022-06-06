@@ -1,6 +1,6 @@
 # SA 👋
 
-## I'm Omar Elmasri, interested in Embedded Software
+## I'm Omar Elmasri, 🕌 🕋 🧑‍🔧 🧑‍💻
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) masriomarm](https://www.linkedin.com/masriomarm)
 &nbsp;
 [![GitHub](https://i.stack.imgur.com/tskMh.png) masriomarm](https://github.com/masriomarm)
