@@ -1,7 +1,7 @@
 # SA 👋
 
 # 🕌 🕋 🧑‍🔧 🧑‍💻
-## Reach me on [![Linkedin](https://i.stack.imgur.com/gVE0j.png) Linkedin](https://www.linkedin.com/masriomarm)&nbsp;, check my [resume](https://masriomarm.github.io/docs/resume-omar-mahmoud.pdf).
+## Reach me on [![Linkedin](https://i.stack.imgur.com/gVE0j.png) Linkedin](https://www.linkedin.com/in/masriomarm)&nbsp;, check my [resume](https://masriomarm.github.io/docs/resume-omar-mahmoud.pdf).
 <!-- [![GitHub](https://i.stack.imgur.com/tskMh.png) masriomarm](https://github.com/masriomarm)
               
               
